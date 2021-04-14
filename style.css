@@ -1,27 +1,39 @@
 .Dasmoto {
-background-image: url(Images\c06ssgw6.bmp);
+background-image: url("Images\c06ssgw6.bmp");
 background-color: #cccccc;
 };
 
 .mainSection {
-    background-image: url()
+    background-image: url("")
+};
+
+.hb {
+    background-color: mediumseagreen;
 };
 
 .Brushes {
-    background-image: url(Images\5mc6mn5u.bmp);
+    background-image: url("Images\5mc6mn5u.bmp");
     background-color: #cccccc;
+};
+
+.hf {
+background-color: lightcoral;
 };
 
 .Frames {
-    background-image: url(Images\fd9v8rfq.bmp);
+    background-image: url("Images\fd9v8rfq.bmp");
     background-color: #cccccc;
 };
 
+.hp {
+background-color: skyblue;
+};
+
 .Paint {
-    background-image: url(Images\gc6s8i6n.bmp);
+    background-image: url("Images\gc6s8i6n.bmp");
     background-color: #cccccc;
 };
 
 .feet {
-    background-image: url()
+    background-image: url("")
 };
